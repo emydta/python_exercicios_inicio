@@ -1,3 +1,3 @@
-for numero in (1,4):
+for numero in range(1, 5):
     print(f"Número: {numero}")
 
